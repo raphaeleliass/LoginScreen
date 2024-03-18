@@ -14,7 +14,7 @@ Um projeto de tela de login responsiva básica desenvolvido em HTML e Tailwindcs
 
 ## URL do Projeto 🌐
 
-Confira o projeto [clicando aqui](https://raphaeleliass.github.io/LoginScreen/).
+Confira o projeto <a href="https://raphaeleliass.github.io/LoginScreen/" target="_blank">clicando aqui</a>.
 
 ## Capturas de Tela 📸
 
