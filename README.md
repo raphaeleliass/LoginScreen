@@ -29,7 +29,7 @@ Confira o projeto <a href="https://raphaeleliass.github.io/LoginScreen/" target=
 
 ## Contribuição 🤝
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar solicitações de pull.
 
 ## Licença ⚖️
 
